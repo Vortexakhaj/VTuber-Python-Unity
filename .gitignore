@@ -12,6 +12,7 @@ file_tidy.py
 Videos*
 
 .DS_Store
+UnityAssets/
 UnityAssets/.DS_Store
 
 git-personal-access-token.txt
